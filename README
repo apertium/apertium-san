@@ -9,11 +9,11 @@ $ lt-comp lr apertium-sa-XX.sa.dix sa.automorf.bin
 
 To use it:
 
-$ echo "rAjA" | lt-proc -c sa.automorf.bin 
+$ echo "rAmeNa" | lt-proc -c sa.automorf.bin 
 
 You should get the output:
 
-^rAjA/rAj<n><m><3><sg>/rAjan<n><m><1><sg>$
+^rAmeNa/rAma<n><m><3><sg>$
 
 Note: the -c option is important to respect case.
 
