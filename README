@@ -1,6 +1,11 @@
 Morphological analyser for Sanskrit
 ===================================
 
+==Files==
+
+* apertium-sa-XX.sa.dix     - Sanskrit morphological dictionary
+* apertium-sa-XX.ucs-wx.xml - Transliteration file
+
 ==Installation==
 
 To compile it you need lttoolbox installed:
