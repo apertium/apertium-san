@@ -7,7 +7,7 @@
 <dictionary>
   <!-- I'm mixing Devanāgarī characters with their transliteration here,
        so it'll be visible that they are present -->
-  <alphabet>अaआAइiईIउuऊUऋqॠQऌLएeऐEओoऔOअंaMअःaHअँazक्kख्Kग्gघ्Gङ्fच्cछ्Cज्jझ्Jञ्Fट्tठ्Tड्dढ्Dण्Nत्wथ्Wद्xध्Xन्nप्pफ्Pब्bभ्Bम्mय्yर्rल्lव्vश्Sष्Rस्sह्h०0१1२2३3४4५5६6७7८8९9</alphabet>
+  <alphabet>अaआAइiईIउuऊUऋqॠQऌLएeऐEओoऔOक्kख्Kग्gघ्Gङ्fच्cछ्Cज्jझ्Jञ्Fट्tठ्Tड्dढ्Dण्Nत्wथ्Wद्xध्Xन्nप्pफ्Pब्bभ्Bम्mय्yर्rल्lव्vश्Sष्Rस्sह्h०0१1२2३3४4५5६6७7८8९9अँआँइँईँउँऊँऋँअँीँऌँएँऐँओँऔँअंआंइंईंउंऊंऋंअंींऌंएंऐंओंऔं</alphabet>
   <section id="transliteration" type="inconditional">
     <e><p><l>अ</l><r>a</r></p></e>
     <e><p><l>आ</l><r>A</r></p></e>
