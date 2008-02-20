@@ -9,4 +9,5 @@
 /apertium-sa-XX.ucs-wx.xml -text
 /autogen.sh -text
 /configure.ac -text
+/cons-lig.pl -text
 /modes.xml -text
