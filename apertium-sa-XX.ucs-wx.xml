@@ -22,9 +22,56 @@
     <e><p><l>ऐ</l><r>E</r></p></e>
     <e><p><l>ओ</l><r>o</r></p></e>
     <e><p><l>औ</l><r>O</r></p></e>
+
+    <!-- anusvāra -->
     <e><p><l>अं</l><r>aM</r></p></e>
+    <e><p><l>आं</l><r>AM</r></p></e>
+    <e><p><l>इं</l><r>iM</r></p></e>
+    <e><p><l>ईं</l><r>IM</r></p></e>
+    <e><p><l>उं</l><r>uM</r></p></e>
+    <e><p><l>ऊं</l><r>UM</r></p></e>
+    <e><p><l>ऋं</l><r>qM</r></p></e>
+    <e><p><l>अं</l><r>QM</r></p></e>
+    <e><p><l>ीं</l><r>LM</r></p></e>
+    <e><p><l>ऌं</l><r>lM</r></p></e>
+    <e><p><l>एं</l><r>eM</r></p></e>
+    <e><p><l>ऐं</l><r>EM</r></p></e>
+    <e><p><l>ओं</l><r>oM</r></p></e>
+    <e><p><l>औं</l><r>OM</r></p></e>
+
+    <!-- visarga -->
     <e><p><l>अः</l><r>aH</r></p></e>
+    <e><p><l>आः</l><r>AH</r></p></e>
+    <e><p><l>इः</l><r>iH</r></p></e>
+    <e><p><l>ईः</l><r>IH</r></p></e>
+    <e><p><l>उः</l><r>uH</r></p></e>
+    <e><p><l>ऊः</l><r>UH</r></p></e>
+    <e><p><l>ऋः</l><r>qH</r></p></e>
+    <e><p><l>अः</l><r>QH</r></p></e>
+    <e><p><l>ीः</l><r>LH</r></p></e>
+    <e><p><l>ऌः</l><r>lH</r></p></e>
+    <e><p><l>एः</l><r>eH</r></p></e>
+    <e><p><l>ऐः</l><r>EH</r></p></e>
+    <e><p><l>ओः</l><r>oH</r></p></e>
+    <e><p><l>औः</l><r>OH</r></p></e>
+
+    <!-- um... -->
     <e><p><l>अँ</l><r>az</r></p></e>
+    <e><p><l>आँ</l><r>Az</r></p></e>
+    <e><p><l>इँ</l><r>iz</r></p></e>
+    <e><p><l>ईँ</l><r>Iz</r></p></e>
+    <e><p><l>उँ</l><r>uz</r></p></e>
+    <e><p><l>ऊँ</l><r>Uz</r></p></e>
+    <e><p><l>ऋँ</l><r>qz</r></p></e>
+    <e><p><l>अँ</l><r>Qz</r></p></e>
+    <e><p><l>ीँ</l><r>Lz</r></p></e>
+    <e><p><l>ऌँ</l><r>lz</r></p></e>
+    <e><p><l>एँ</l><r>ez</r></p></e>
+    <e><p><l>ऐँ</l><r>Ez</r></p></e>
+    <e><p><l>ओँ</l><r>oz</r></p></e>
+    <e><p><l>औँ</l><r>Oz</r></p></e>
+
+    <!-- Consonants -->
     <e><p><l>क्</l><r>k</r></p></e>
     <e><p><l>ख्</l><r>K</r></p></e>
     <e><p><l>ग्</l><r>g</r></p></e>
