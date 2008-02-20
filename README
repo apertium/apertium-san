@@ -1,2 +1,24 @@
 Morphological analyser for Sanskrit
 
+To compile it you need lttoolbox installed:
+
+$ lt-comp lr apertium-sa-XX.sa.dix sa.automorf.bin
+
+To use it:
+
+$ echo "rAjA" | lt-proc sa.automorf.bin
+
+You should get the output:
+
+^rAjA/rAj<n><m><3><sg>/raja<n><m><8><sg>/rAja<n><m><8><sg>/rajas<n><m><1><sg>/rAjan<n><m><1><sg>/rajas<n><m><8><sg>$
+
+If you want to install it and have it to work
+with apertium deformatters etc. you will need to have
+apertium installed.
+
+Just run:
+
+./autogen.sh
+./configure
+make
+make install
