@@ -5,6 +5,7 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-sa-XX.devanagari-wx.translit.xml -text
 /apertium-sa-XX.sa.dix -text
 /autogen.sh -text
 /configure.ac -text

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  See also: http://en.wikipedia.org/wiki/Devanagari
+            http://sanskrit.inria.fr/DATA/wx.html
+-->
+
+<dictionary>
+  <!-- I'm mixing Devanāgarī characters with their transliteration here,
+       so it'll be visible that they are present -->
+  <alphabet>अaआAइiईIउuऊUऋqॠQऌLएeऐEओoऔOअंaMअःaHअँazक्kख्Kग्gघ्Gङ्fच्cछ्Cज्jझ्Jञ्Fट्tठ्Tड्dढ्Dण्Nत्wथ्Wद्xध्Xन्nप्pफ्Pब्bभ्Bम्mय्yर्rल्lव्vश्Sष्Rस्sह्h०0१1२2३3४4५5६6७7८8९9</alphabet>
+  <section id="transliteration" type="inconditional">
+    <e><p><l>अ</l><r>a</r></p></e>
+    <e><p><l>आ</l><r>A</r></p></e>
+    <e><p><l>इ</l><r>i</r></p></e>
+    <e><p><l>ई</l><r>I</r></p></e>
+    <e><p><l>उ</l><r>u</r></p></e>
+    <e><p><l>ऊ</l><r>U</r></p></e>
+    <e><p><l>ऋ</l><r>q</r></p></e>
+    <e><p><l>ॠ</l><r>Q</r></p></e>
+    <e><p><l>ऌ</l><r>L</r></p></e>
+    <e><p><l>ए</l><r>e</r></p></e>
+    <e><p><l>ऐ</l><r>E</r></p></e>
+    <e><p><l>ओ</l><r>o</r></p></e>
+    <e><p><l>औ</l><r>O</r></p></e>
+    <e><p><l>अं</l><r>aM</r></p></e>
+    <e><p><l>अः</l><r>aH</r></p></e>
+    <e><p><l>अँ</l><r>az</r></p></e>
+    <e><p><l>क्</l><r>k</r></p></e>
+    <e><p><l>ख्</l><r>K</r></p></e>
+    <e><p><l>ग्</l><r>g</r></p></e>
+    <e><p><l>घ्</l><r>G</r></p></e>
+    <e><p><l>ङ्</l><r>f</r></p></e>
+    <e><p><l>च्</l><r>c</r></p></e>
+    <e><p><l>छ्</l><r>C</r></p></e>
+    <e><p><l>ज्</l><r>j</r></p></e>
+    <e><p><l>झ्</l><r>J</r></p></e>
+    <e><p><l>ञ्</l><r>F</r></p></e>
+    <e><p><l>ट्</l><r>t</r></p></e>
+    <e><p><l>ठ्</l><r>T</r></p></e>
+    <e><p><l>ड्</l><r>d</r></p></e>
+    <e><p><l>ढ्</l><r>D</r></p></e>
+    <e><p><l>ण्</l><r>N</r></p></e>
+    <e><p><l>त्</l><r>w</r></p></e>
+    <e><p><l>थ्</l><r>W</r></p></e>
+    <e><p><l>द्</l><r>x</r></p></e>
+    <e><p><l>ध्</l><r>X</r></p></e>
+    <e><p><l>न्</l><r>n</r></p></e>
+    <e><p><l>प्</l><r>p</r></p></e>
+    <e><p><l>फ्</l><r>P</r></p></e>
+    <e><p><l>ब्</l><r>b</r></p></e>
+    <e><p><l>भ्</l><r>B</r></p></e>
+    <e><p><l>म्</l><r>m</r></p></e>
+    <e><p><l>य्</l><r>y</r></p></e>
+    <e><p><l>र्</l><r>r</r></p></e>
+    <e><p><l>ल्</l><r>l</r></p></e>
+    <e><p><l>व्</l><r>v</r></p></e>
+    <e><p><l>श्</l><r>S</r></p></e>
+    <e><p><l>ष्</l><r>R</r></p></e>
+    <e><p><l>स्</l><r>s</r></p></e>
+    <e><p><l>ह्</l><r>h</r></p></e>
+
+    <!-- Numbers -->
+    <e><p><l>०</l><r>0</r></p></e>
+    <e><p><l>१</l><r>1</r></p></e>
+    <e><p><l>२</l><r>2</r></p></e>
+    <e><p><l>३</l><r>3</r></p></e>
+    <e><p><l>४</l><r>4</r></p></e>
+    <e><p><l>५</l><r>5</r></p></e>
+    <e><p><l>६</l><r>6</r></p></e>
+    <e><p><l>७</l><r>7</r></p></e>
+    <e><p><l>८</l><r>8</r></p></e>
+    <e><p><l>९</l><r>9</r></p></e>
+  </section>
+</dictionary>
