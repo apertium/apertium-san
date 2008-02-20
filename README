@@ -1,4 +1,7 @@
 Morphological analyser for Sanskrit
+===================================
+
+==Installation==
 
 To compile it you need lttoolbox installed:
 
@@ -6,11 +9,14 @@ $ lt-comp lr apertium-sa-XX.sa.dix sa.automorf.bin
 
 To use it:
 
-$ echo "rAjA" | lt-proc sa.automorf.bin
+$ echo "rAjA" | lt-proc -c sa.automorf.bin 
+
 
 You should get the output:
 
-^rAjA/rAj<n><m><3><sg>/raja<n><m><8><sg>/rAja<n><m><8><sg>/rajas<n><m><1><sg>/rAjan<n><m><1><sg>/rajas<n><m><8><sg>$
+^rAjA/rAj<n><m><3><sg>/rAjan<n><m><1><sg>$
+
+Note: the -c option is important to respect case.
 
 If you want to install it and have it to work
 with apertium deformatters etc. you will need to have
@@ -22,3 +28,7 @@ Just run:
 ./configure
 make
 make install
+
+==Encoding==
+
+The dictionary is in ASCII and uses the wx-notation. 

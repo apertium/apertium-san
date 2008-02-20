@@ -2,7 +2,7 @@
 <modes>
   <mode name="sa-XX-morph" install="yes">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -c">
         <file name="sa-XX.automorf.bin"/>
       </program>
     </pipeline>

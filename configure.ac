@@ -4,7 +4,7 @@
 
 AC_PREREQ(2.52)
 
-m4_define([required_apertium_version], [3.0.0])
+m4_define([required_apertium_version], [3.0.4])
 
 AC_INIT([apertium-sa-XX], [0.1], [anusaaraka@users.sourceforge.net])
 AM_INIT_AUTOMAKE([apertium-sa-XX], [0.1], no-define)
