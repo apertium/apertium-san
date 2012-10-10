@@ -25,4 +25,5 @@ CLEANFILES = $(TARGETS)
 
 install-data-local:
 	$(prefix)/bin/apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	$(INSTALL_DATA) $(PREFIX1)-morph.mode $(apertium_sa_XXmodesdir)
+	test -d $(DESTDIR)$(apertium_sa_XXmodesdir) || mkdir $(DESTDIR)$(apertium_sa_XXmodesdir)
+	$(INSTALL_DATA) $(PREFIX1)-morph.mode $(DESTDIR)$(apertium_sa_XXmodesdir)
