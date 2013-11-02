@@ -5,8 +5,8 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-sa-XX.sa.dix -text
-/apertium-sa-XX.ucs-wx.xml -text
+/apertium-san.san.dix -text
+/apertium-san.ucs-wx.xml -text
 /autogen.sh -text
 /configure.ac -text
 /cons-lig.pl -text
