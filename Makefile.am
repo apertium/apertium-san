@@ -15,7 +15,7 @@ $(LANG1).automorf.bin: $(BASENAME).$(LANG1).dix
 EXTRA_DIST=$(BASENAME).$(LANG1).dix modes.xml
            
 apertium_sandir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_san_DATA=$(PREFIX1).automorf.bin 
+apertium_san_DATA=$(LANG1).automorf.bin 
 apertium_sanmodesdir=$(prefix)/share/apertium/modes/
 
 CLEANFILES = $(TARGETS)
