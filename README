@@ -3,18 +3,18 @@ Morphological analyser for Sanskrit
 
 ==Files==
 
-* apertium-sa-XX.sa.dix     - Sanskrit morphological dictionary
-* apertium-sa-XX.ucs-wx.xml - Transliteration file
+* apertium-san.san.dix     - Sanskrit morphological dictionary
+* apertium-san.ucs-wx.xml - Transliteration file
 
 ==Installation==
 
 To compile it you need lttoolbox installed:
 
-$ lt-comp lr apertium-sa-XX.sa.dix sa.automorf.bin
+$ lt-comp lr apertium-san.san.dix san.automorf.bin
 
 To use it:
 
-$ echo "rAmeNa" | lt-proc -c sa.automorf.bin 
+$ echo "rAmeNa" | lt-proc -c san.automorf.bin 
 
 You should get the output:
 
@@ -24,11 +24,11 @@ Note: the -c option is important to respect case.
 
 To use the generator:
 
-$ lt-comp rl apertium-sa-XX.sa.dix sa.autogen.bin
+$ lt-comp rl apertium-san.san.dix san.autogen.bin
 
 Then:
 
-$ echo "^rAma<n><m><ins><sg>$" | lt-proc -c -g sa.autogen.bin
+$ echo "^rAma<n><m><ins><sg>$" | lt-proc -c -g san.autogen.bin
 rAmeNa
 
 If you want to install it and have it to work

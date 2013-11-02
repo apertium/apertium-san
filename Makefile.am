@@ -3,7 +3,7 @@ LANG1=san
 
 BASENAME=apertium-$(LANG1)
 
-TARGETS_COMMON = $(LANG1).automorf.bin 
+TARGETS_COMMON = $(LANG1).automorf.bin $(LANG1).autogen.bin
 
 TARGETS = $(TARGETS_COMMON) 
 
@@ -11,11 +11,14 @@ $(LANG1).automorf.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
 	lt-comp lr $(BASENAME).$(LANG1).dix $@
 
+$(LANG1).autogen.bin: $(BASENAME).$(LANG1).dix
+	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
+	lt-comp rl $(BASENAME).$(LANG1).dix $@
 
 EXTRA_DIST=$(BASENAME).$(LANG1).dix modes.xml
            
 apertium_sandir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_san_DATA=$(LANG1).automorf.bin 
+apertium_san_DATA=$(TARGETS)
 apertium_sanmodesdir=$(prefix)/share/apertium/modes/
 
 CLEANFILES = $(TARGETS)
