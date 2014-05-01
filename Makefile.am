@@ -38,7 +38,7 @@ apertium_san_DATA=$(TARGETS_COMMON)
 noinst_DATA=modes/$(LANG1)-morph.mode
 
 install-data-local:
-	$(INSTALL_DATA) $(BASENAME).$(LANG1).dix $(DESTDIR)$(apertium_kum_srcdir)
+	$(INSTALL_DATA) $(BASENAME).$(LANG1).dix $(DESTDIR)$(apertium_san_srcdir)
 
 
 ###############################################################################
