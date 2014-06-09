@@ -29,7 +29,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix modes.xml
 ## Installation stuff
 ###############################################################################
 #
-#   apertium_san_libdir: This is where the compiled binaries go
+#   apertium_san_dir: This is where the compiled binaries go
 #   apertium_san_srcdir: This is where the source files go
 
 apertium_sandir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
