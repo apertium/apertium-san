@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
-  <mode name="sa-XX-morph" install="yes">
+  <mode name="san-morph" install="yes">
     <pipeline>
       <program name="lt-proc -c">
-        <file name="sa-XX.automorf.bin"/>
+        <file name="san.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
