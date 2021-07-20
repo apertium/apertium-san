@@ -1,0 +1,34 @@
+[4dmjCGUaepex#0] ^SAKotAn/SAKota<n><m><acc><pl>$
+[/4dmjCGUaepex]
+[AkkBt8cEZRLs#0] ^SAKotO/SAKota<n><m><nom><dual>/SAKota<n><m><acc><dual>/SAKota<n><m><voc><dual>$
+[/AkkBt8cEZRLs]
+[AskphjXP_BZb#0] ^SAKotena/SAKota<n><m><ins><sg>$
+[/AskphjXP_BZb]
+[DiKZm-Zo0AhE#0] ^SAKotasya/SAKota<n><m><gen><sg>$
+[/DiKZm-Zo0AhE]
+[DmyBxdGY1a6f#0] ^SAKotEH/SAKota<n><m><ins><pl>$
+[/DmyBxdGY1a6f]
+[GBG7IRILclb1#0] ^SAKotayoH/SAKota<n><m><gen><dual>/SAKota<n><m><loc><dual>$
+[/GBG7IRILclb1]
+[Rp8QNPzjp6XP#0] ^SAKotaH/SAKota<n><m><nom><sg>$
+[/Rp8QNPzjp6XP]
+[Y9H8J6hewgE-#0] ^SAKotAya/SAKota<n><m><dat><sg>$
+[/Y9H8J6hewgE-]
+[YC32JfhlNiqR#0] ^SAKiRu/SAKi<n><m><loc><pl>/SAKin<n><n><loc><pl>/SAKin<n><m><loc><pl>$
+[/YC32JfhlNiqR]
+[cFgqPD0OoCMl#0] ^SAKIni/SAKin<n><n><nom><pl>/SAKin<n><n><acc><pl>/SAKin<n><n><voc><pl>$
+[/cFgqPD0OoCMl]
+[cZ0lA64L4r_e#0] ^SAKotAw/SAKota<n><m><abl><sg>$
+[/cZ0lA64L4r_e]
+[fqzhosKg6Iyp#0] ^SAKoteByaH/SAKota<n><m><dat><pl>/SAKota<n><m><abl><pl>$
+[/fqzhosKg6Iyp]
+[kH1C7jAYNGki#0] ^SAKin/SAKin<n><n><voc><sg>/SAKin<n><m><voc><sg>$
+[/kH1C7jAYNGki]
+[lK0ubrmXvPIL#0] ^SAKotam/SAKota<n><m><acc><sg>$
+[/lK0ubrmXvPIL]
+[srGPjm04cWE3#0] ^SAKinI/SAKin<n><n><nom><dual>/SAKin<n><n><acc><dual>/SAKin<n><n><voc><dual>$
+[/srGPjm04cWE3]
+[wPO97rCDt1pq#0] ^SAKotAByAm/SAKota<n><m><ins><dual>/SAKota<n><m><dat><dual>/SAKota<n><m><abl><dual>$
+[/wPO97rCDt1pq]
+[yJSe-fYgL3za#0] ^SAKotAH/SAKota<n><m><nom><pl>/SAKota<n><m><voc><pl>$
+[/yJSe-fYgL3za]
